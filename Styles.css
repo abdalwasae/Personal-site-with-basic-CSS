@@ -1,0 +1,90 @@
+body {
+   text-align: center;
+   margin:0;
+   
+}
+hr{
+    border-color:#583d72 ;
+    border-style: none;
+    border-top-style: dotted;
+    opacity: 100%;
+    border-width: 5px;
+    width: 30%;
+
+   }
+
+h1{
+    font-size:500%;
+    color:#583d72;
+    margin:50px;
+    font-family: 'Sacramento', cursive;
+    
+}
+h2{
+    font-size: 250%;
+    color:#583d72;
+    margin:0;
+    font-family: 'Sacramento', cursive;
+    
+}
+h3{
+    color:#583d72;
+    margin:0;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+h4{
+    color:#9f5f80;
+    margin:0;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+p{
+    color:#583d72;
+    font-family: 'Open Sans', sans-serif;
+}
+.Top-container{
+    background-color:#ffba93;
+    position:relative;
+    padding-top:13%;
+    font-family: 'Open Sans', sans-serif;
+    white-space: nowrap;
+    line-height: 0px;
+}
+.mountain{
+    
+    margin-bottom: 1px;
+}
+.top-cloud{
+position: absolute;
+top:50px;
+right: 25%;
+}
+.bottom-cloud{
+    position: absolute;
+    top:200px;
+    left: 25%;
+    
+}
+.middle-container{
+background-color: #ff8e71;
+white-space: nowrap;
+
+}
+.bottom-container{
+    background-color:#ff8e71
+
+}
+.profile{
+    font-family: 'Sacramento', cursive;
+    color:#16c79a;
+}
+.skills{
+ color:#ff8e71 ;
+}
+.skill-row{
+    color:#ff8e71;
+}
+.Contact-me{
+    color:#ff8e71;
+}
