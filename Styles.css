@@ -49,6 +49,9 @@ p{
     font-size: 1.25rem;
     line-height: 2;
 }
+.wasae{
+    padding:35px;
+}
 .Top-container{
     background-color:#ffba93;
     position:relative;
