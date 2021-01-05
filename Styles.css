@@ -43,14 +43,14 @@ h4{
     font-weight: normal;
     
 }
+.wasae{
+    margin:0 0 50px;
+}
 p{
     color:#583d72;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.25rem;
     line-height: 2;
-}
-.wasae{
-     margin:0 0 50px;
 }
 .Top-container{
     background-color:#ffba93;
@@ -76,7 +76,7 @@ right: 5%;
 .bottom-cloud{
     position: absolute;
     top:45%;
-    left: 3%;
+    left: 5%;
     
     
 }
